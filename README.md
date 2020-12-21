@@ -7,4 +7,4 @@ Script de démmarage de serveur minecraft. Seulement sur Windows. Pas sûr que �
 # Installation 
 ![](https://img.shields.io/badge/Cod%C3%A9%20avec-Batchfile-yellow)
 
-L'installation de ce script est simple. Glissez le star.bat dans votre dossier avec le .jar de votre serveur. Ensuite editer le .bat si vous voulez modifier la ram du serveur.
+L'installation de ce script est simple. Glissez le start.bat dans votre dossier avec le .jar de votre serveur. Ensuite editer le .bat si vous voulez modifier la ram du serveur.
